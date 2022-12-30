@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&family=Sevillana&family=Seymour+One&display=swap');
+
+.navbar {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background: linear-gradient(to right, #96eff4 0%, #f7eeabfd 42%, #f0eb95 51%, #91f3f5f9 100%);
+    color: black;
+}
+
+.title {
+    padding-left: 10px;
+    font-family: 'Prosto One', cursive;
+    
+}
+
+ul{
+    list-style-type: none;
+    text-align: center ;
+}
+
+li {
+    display: inline;
+    border: #43e3c9 3px solid;
+    margin-right: 9px;
+    padding: 0 5px;
+}
+
+a {
+    color: #0a0a0af4;
+    padding: 0 4px;
+    text-decoration: none;
+    font-family: 'Seymour One', sans-serif;
+}
+
+a:hover {
+   color: #ed8d67;
+  }

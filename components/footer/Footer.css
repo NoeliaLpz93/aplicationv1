@@ -1,0 +1,10 @@
+footer {
+    position: fixed;
+       bottom: 0;
+       width: 100%;
+       height: 40px;   /* Height of the footer */
+       font-family: 'Sevillana', cursive;
+       font-size: small;
+       background: linear-gradient(to right, #96eff4 0%, #f7eeabfd 42%, #f0eb95 51%, #91f3f5f9 100%);
+       color: #605e5eb4;
+    }
